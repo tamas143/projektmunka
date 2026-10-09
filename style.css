@@ -1,5 +1,5 @@
 header {
-    background-color: #f8f9fa;
+    background-color: #e6e9ec;
     padding: 1px;
     box-shadow: 0 2px 4px rgba(0,0,0,.1);
     img {
@@ -10,7 +10,10 @@ header {
         color: white;
         border: none;
         padding: 0.5rem 1rem;
-        border-radius: 4px;
+        border-radius: 12px;
         cursor: pointer;
+        
     }
+    
 }
+
