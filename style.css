@@ -42,7 +42,7 @@ main {
 #carouselExampleControls .carousel-inner,
 #carouselExampleControls .carousel-item {
     width: 100%;
-    height: 100%;
+    height: 850px;
 }
 
 #carouselExampleControls .carousel-item img {
